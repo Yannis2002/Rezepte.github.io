@@ -28,7 +28,7 @@ body {
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
-  background: #FFFFFF
+  background: #FFFFFF;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -282,6 +282,14 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+.container .wrapper-footer{
+	background: #FFFFFF;
+}
+
+.container .wrapper-masthead{
+	background: #FFFFFF;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
