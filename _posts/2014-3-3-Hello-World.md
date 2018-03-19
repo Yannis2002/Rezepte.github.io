@@ -3,10 +3,12 @@ layout: post
 title: Die besten Rezepte
 ---
 
+[Pizzateig]()
+[Pizza]()
+[Backen]()
 
 
-
-# Pizzateig:pizza:
+# Pizzateig
 ### Für 2 Bleche:
 
 - 500g Mehl
@@ -15,7 +17,25 @@ title: Die besten Rezepte
 - ca 10ml Olivenöl
 - Salz nach belieben
 
-Alles zusammengeben und vermengen bis man einen schönen Teig hat. Diesen dann mindestens 3h lang gehen lassen (evtl auch auf der Heizung). 
+> Alles zusammengeben und vermengen bis man einen schönen Teig hat. Diesen dann mindestens 3h lang gehen lassen (evtl auch auf der Heizung).
+
+# Pizza
+
+- 1 Tomatensoße
+- 2 Packungen gerieben Mozzarella
+- Oregano
+- 2 Paprikas (rot und gelb)
+- 1 Zwiebel
+- 1 Packung Scharfe Salami
+- 1 Packung Schinken
+
+>Zuerst den Pizzateig in zwei gleichgroße Teile teilen und diese dann auf zwei Blechen ausrollen. Dann die Tomatensoße auf dem ausgerollten Teig verteilen. Hierbei kann nach belieben variert werden. Nun den Oregano auf der Tomatensoße verteilen und anschließend den Mozzarella.
+
+>Jetzt schneiden wir die Paprika in kurze Längsstreifen, die Zwiebel in Ringe und den Schinken & Salami in kleine Stücke. Danach alle Zutaten auf der Pizza verteilen.
+
+# Backen
+
+>Den Ofen auf 180° Umluft vorheizen und die Bleche in die mittleren Schienen schieben. Die Pizza Muss ca 15 Minuten im Ofen bleiben. In dieser Zeit sollten die Pizzen mal getauscht werden damit die untere auch mal oben ist und beide gleich gut gebacken sind.
 
 
 
