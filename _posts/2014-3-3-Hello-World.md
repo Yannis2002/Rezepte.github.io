@@ -9,10 +9,8 @@ title: Die besten Rezepte
 ---
 # **Pizza**
 
----
 
 <img src="/images/982115-420x280-fix-pizza-diavolo.jpg">
-
 - Quelle: Chefkoch.de
 
 ## Pizzateig
@@ -52,8 +50,6 @@ title: Die besten Rezepte
 # **Burger**
 
 <img src= "/images/signal-2017-07-07-185653.jpg">
-
----
 
 ## Burger
 ### Für zwei Personen (4 Burger)
