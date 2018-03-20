@@ -42,7 +42,9 @@ title: Die besten Rezepte
 # Backen
 
 >Den Ofen auf 180° Umluft vorheizen und die Bleche in die mittleren Schienen schieben. Die Pizza Muss ca 15 Minuten im Ofen bleiben. In dieser Zeit sollten die Pizzen mal getauscht werden damit die untere auch mal oben ist und beide gleich gut gebacken sind.
-
+<br/>
+<br/>
+<br/>
 ---
 
 <img src= "/images/signal-2017-07-07-185653.jpg">
