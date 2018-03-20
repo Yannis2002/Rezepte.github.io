@@ -12,6 +12,7 @@ title: Die besten Rezepte
 
 [Burger](#burger)
 
+---
 
 # Pizzateig
 ### Für 2 Bleche:
@@ -42,10 +43,11 @@ title: Die besten Rezepte
 
 >Den Ofen auf 180° Umluft vorheizen und die Bleche in die mittleren Schienen schieben. Die Pizza Muss ca 15 Minuten im Ofen bleiben. In dieser Zeit sollten die Pizzen mal getauscht werden damit die untere auch mal oben ist und beide gleich gut gebacken sind.
 
-
-
+---
 
 <img src= "/images/signal-2017-07-07-185653.jpg">
+
+---
 
 # Burger
 ### Für zwei Personen (4 Burger)
