@@ -8,6 +8,13 @@ title: Die besten Rezepte
 
 ---
 # **Pizza**
+
+---
+
+<img src="/images/982115-420x280-fix-pizza-diavolo.jpg"
+Quelle: Chefkoch.de
+---
+
 ## Pizzateig
 ### Für 2 Bleche:
 
