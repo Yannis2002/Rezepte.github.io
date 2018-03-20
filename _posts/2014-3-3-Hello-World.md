@@ -7,8 +7,8 @@ title: Die besten Rezepte
 [ #Pizzateig ](#pizzateig)    [ #Pizza ](#pizza)    [ #Backen ](#backen)    [ #Burger ](#burger)
 
 ---
-
-# Pizzateig
+# **Pizza**
+## Pizzateig
 ### Für 2 Bleche:
 
 - 500g Mehl
@@ -19,7 +19,7 @@ title: Die besten Rezepte
 
 > Alles zusammengeben und vermengen bis man einen schönen Teig hat. Diesen dann mindestens 3h lang gehen lassen (evtl auch auf der Heizung).
 
-# Pizza
+## Pizza
 
 - 1 Tomatensoße
 - 2 Packungen gerieben Mozzarella
@@ -33,7 +33,7 @@ title: Die besten Rezepte
 
 >Jetzt schneiden wir die Paprika in kurze Längsstreifen, die Zwiebel in Ringe und den Schinken & Salami in kleine Stücke. Danach alle Zutaten auf der Pizza verteilen.
 
-# Backen
+## Backen
 
 >Den Ofen auf 180° Umluft vorheizen und die Bleche in die mittleren Schienen schieben. Die Pizza Muss ca 15 Minuten im Ofen bleiben. In dieser Zeit sollten die Pizzen mal getauscht werden damit die untere auch mal oben ist und beide gleich gut gebacken sind.
 <br/>
@@ -42,11 +42,13 @@ title: Die besten Rezepte
 
 ---
 
+# **Burger**
+
 <img src= "/images/signal-2017-07-07-185653.jpg">
 
 ---
 
-# Burger
+## Burger
 ### Für zwei Personen (4 Burger)
 
 - 1 Salat
