@@ -13,7 +13,7 @@ title: Die besten Rezepte
 
 - 500g Mehl
 - 250ml Wasser
-- 1 packet Hefe
+- 1 Packet Hefe
 - ca 10ml Olivenöl
 - Salz nach belieben
 
@@ -35,7 +35,7 @@ title: Die besten Rezepte
 
 ## Backen
 
->Den Ofen auf 180° Umluft vorheizen und die Bleche in die mittleren Schienen schieben. Die Pizza Muss ca 15 Minuten im Ofen bleiben. In dieser Zeit sollten die Pizzen mal getauscht werden damit die untere auch mal oben ist und beide gleich gut gebacken sind.
+>Den Ofen auf 180° Umluft vorheizen und die Bleche in die mittleren Schienen schieben. Die Pizza muss ca 15 Minuten im Ofen bleiben. In dieser Zeit sollten die Pizzen mal getauscht werden damit die untere auch mal oben ist und beide gleich gut gebacken sind.
 <br/>
 <br/>
 <br/>
