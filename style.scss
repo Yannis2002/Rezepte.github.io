@@ -24,8 +24,12 @@ body {
 }
 
 .all{
-box-shadow: 10px 10px 5px #CFCFCF;
-max-width: 750px
+  box-shadow: 10px 10px 5px #CFCFCF;
+  margin: 0 auto;
+  max-width: 740px;
+  padding: 0 10px;
+  width: 100%;
+  background: #FFFFFF;
 }
 
 .container {
