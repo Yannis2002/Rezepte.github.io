@@ -58,7 +58,7 @@ title: Die besten Rezepte
 - Ketchup
 - Mayonneise
 - Senf
-- 4oog bis 480g Rinder Hackfleisch
+- 400g bis 480g Rinder Hackfleisch
 - 1 Packung mit Scheibenkäse
 - 4 Burger Brötchen
 - Öl (zum Braten)
