@@ -11,7 +11,7 @@ title: Die besten Rezepte
 
 ---
 
-<img src="/images/982115-420x280-fix-pizza-diavolo.jpg"
+<img src="/images/982115-420x280-fix-pizza-diavolo.jpg">
 
 Quelle: Chefkoch.de
 ---
