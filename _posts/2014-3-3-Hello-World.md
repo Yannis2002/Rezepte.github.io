@@ -45,7 +45,7 @@ title: Die besten Rezepte
 
 
 
-<img src=>
+<img src= "/images/signal-2017-07-07-185653.jpg">
 
 # Burger
 ### Für zwei Personen (4 Burger)
