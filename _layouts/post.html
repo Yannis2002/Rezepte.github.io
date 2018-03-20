@@ -10,7 +10,7 @@ layout: default
   </div>
 
   <div class="date">
-    geschrieben: {{ page.date | date_to_long_string }}
+    geschrieben: {{ page.date | date_to_rfc822 }}
   </div>
 
   {% include disqus.html %}
