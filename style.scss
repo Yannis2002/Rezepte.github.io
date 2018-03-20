@@ -23,13 +23,16 @@ body {
   color: $darkGray;
 }
 
+.all{
+box-shadow: 10px 10px 5px #CFCFCF;
+}
+
 .container {
   margin: 0 auto;
   max-width: 740px;
   padding: 0 10px;
   width: 100%;
   background: #FFFFFF;
-  box-shadow: 10px 10px 5px #CFCFCF;
 }
 
 h1, h2, h3, h4, h5, h6 {
